@@ -3,7 +3,7 @@
 Este projeto visa criar um portal de atendimento entre a Sanofi e as farmácias parceiras para comunicação de devoluções para seus clientes. Inclui um chatbot integrado ao SAC da empresa via WhatsApp e o portal SAC AI de comunicação entre a Sanofi e suas parceiras. A solução proporciona uma experiência superior para o consumidor, maior eficiência operacional e redução de custos para a Sanofi.
 
 ## Link vídeo apresentação do projeto: 
-**Youtube**
+**https://youtu.be/5tvURfXvQd4**
 
 ## Tecnologias Utilizadas
 - **Frontend:** React (HTML, CSS, JavaScript)
