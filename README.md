@@ -24,15 +24,6 @@ Este projeto visa criar um portal de atendimento entre a Sanofi e as farmácias 
 6. **Retirada pelo Cliente:**
    - Cliente retira o produto e confirma a retirada no portal.
 
-## Funcionalidades do Portal "SAC AI"
-1. **Solicitações de Troca:**
-   - Listagem de todas as solicitações com filtros de status.
-2. **Estoques Confirmados:**
-   - Listagem de solicitações com estoque confirmado.
-   - Enviar notificação para cliente e farmácia sobre as etapas do processo de devolução.
-3. **Solicitações Finalizadas:**
-   - Listagem de todas as solicitações finalizadas em um dashboard no portal.
-
 ## Arquivos do projeto
 
 ### Chatbot.py
