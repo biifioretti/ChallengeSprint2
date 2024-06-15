@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado da Solicitação</title>
+</head>
+<body>
+    {% if error %}
+        <p>{{ error }}</p>
+    {% else %}
+        <h1>Resultado da Solicitação</h1>
+        <p>Número da Solicitação: {{ solicitation_number }}</p>
+        <p>Status: {{ status }}</p>
+        <p>Detalhes: {{ details }}</p>
+    {% endif %}
+    <a href="{% url 'home' %}">Voltar ao Início</a>
+</body>
+</html>

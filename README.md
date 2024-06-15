@@ -2,6 +2,9 @@
 
 Este projeto visa criar um portal de atendimento entre a Sanofi e as farmácias parceiras para comunicação de devoluções para seus clientes. Inclui um chatbot integrado ao SAC da empresa via WhatsApp e o portal SAC AI de comunicação entre a Sanofi e suas parceiras. A solução proporciona uma experiência superior para o consumidor, maior eficiência operacional e redução de custos para a Sanofi.
 
+## Link vídeo apresentação do projeto: 
+**Youtube**
+
 ## Tecnologias Utilizadas
 - **Frontend:** React (HTML, CSS, JavaScript)
 - **Backend:** Django (Python)
@@ -26,6 +29,14 @@ Este projeto visa criar um portal de atendimento entre a Sanofi e as farmácias 
 
 ## Arquivos do projeto
 
-### Chatbot.py
+### chatbot.py
 **Versão beta do nosso chatbot**
+
     Nesta versão, nosso atendente virtual do chatbot ainda não tem nenhuma inteligência artificial integrada em si. Trata-se de um script base do que pretendemos fazer via whatsapp para o cliente.
+
+### manage.py
+**Interface Django**
+
+    Neste arquivo, utilizamos o script chatbot.py como base para demonstrar como será feita a integração de nossos arquivos do banco de dados e nosso front-end com o back-end utilizando o Django.
+
+    

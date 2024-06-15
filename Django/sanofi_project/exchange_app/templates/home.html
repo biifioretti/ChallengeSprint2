@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanofi - Troca de Produtos</title>
+</head>
+<body>
+    <h1>{{ message }}</h1>
+    <p>Por favor, selecione uma opção:</p>
+    <ul>
+        <li><a href="{% url 'consult' %}">Consultar status da solicitação de troca</a></li>
+        <li><a href="{% url 'cancel' %}">Cancelar uma solicitação</a></li>
+    </ul>
+</body>
+</html>
