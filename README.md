@@ -32,11 +32,11 @@ Este projeto visa criar um portal de atendimento entre a Sanofi e as farmácias 
 ### chatbot.py
 **Versão beta do nosso chatbot**
 
-    Nesta versão, nosso atendente virtual do chatbot ainda não tem nenhuma inteligência artificial integrada em si. Trata-se de um script base do que pretendemos fazer via whatsapp para o cliente.
+Nesta versão, nosso atendente virtual do chatbot ainda não tem nenhuma inteligência artificial integrada em si. Trata-se de um script base do que pretendemos fazer via whatsapp para o cliente.
 
 ### manage.py
 **Interface Django**
 
-    Neste arquivo, utilizamos o script chatbot.py como base para demonstrar como será feita a integração de nossos arquivos do banco de dados e nosso front-end com o back-end utilizando o Django.
+Neste arquivo, utilizamos o script chatbot.py como base para demonstrar como será feita a integração de nossos arquivos do banco de dados e nosso front-end com o back-end utilizando o Django.
 
     
